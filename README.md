@@ -1,4 +1,4 @@
-# chicago_socioeconomic_status
+# Chicago_Socioeconomic_Status
 
 # Dataset 
 
