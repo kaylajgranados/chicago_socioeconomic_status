@@ -2,7 +2,7 @@
 
 # Dataset 
 
-The data set sourced from the City of Chicago Data Portal was collected by the US Census Bureau spanning the year 2008-2012. The datasets reports six socioeconomic factors for 77 Chicago Community Area: 
+The dataset sourced from the City of Chicago Data Portal was collected by the US Census Bureau spanning the year 2008-2012. The datasets reports six socioeconomic factors for 77 Chicago Community Area: 
 *Percent of Crowded Housing (with more than one person per room) 
 *Percent of Households Below Poverty Level
 *Percent over 25+ without a High School Diploma
