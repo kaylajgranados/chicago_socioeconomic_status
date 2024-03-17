@@ -34,8 +34,11 @@ I created a correlation coefficient matrix, which shows that the correlation coe
 I performed linear regression analysis to investigate the association between poverty rates and unemployment rates, high school diploma rates, crowded housing rates, and per capita income. Upon comparing the slopes of the four models, unemployment has the highest slope, meaning that lowering unemployment levels is likely to have the most significant impact on lowering poverty levels. For every percentage point that the unemployment rate increases, the poverty percentage increases by 1.22 percentage points. 
 
 Unemployment: y = 1.22x + 2.99
+
 High School diploma: y = 0.41x + 13.33
+
 Crowded housing: y = 1.0x + 16.82
+
 Per Capita Income: y = -0.0x + 32.68
 
 <img width="605" alt="Screen Shot 2024-03-16 at 6 20 58 PM" src="https://github.com/kaylajgranados/chicago_socioeconomic_status/assets/83734241/2a30efc1-7c27-463d-83bb-131cb0e7a8a1">
