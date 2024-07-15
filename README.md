@@ -3,12 +3,12 @@
 # Dataset 
 
 The dataset sourced from the City of Chicago Data Portal was collected by the US Census Bureau spanning the years 2008-2012. The dataset reports six socioeconomic factors for 77 Chicago Community Areas: 
-*Percent of Crowded Housing (with more than one person per room) 
-*Percent of Households Below Poverty Level
-*Percent over 25 without a High School Diploma
-*Percent Aged Over 18 or Under 64
-*Per Capita Income 
-*Hardship Index (not clearly defined in the remaining documentation and excluded from the analysis) 
+_Percent of Crowded Housing (with more than one person per room) 
+_Percent of Households Below Poverty Level
+_Percent over 25 without a High School Diploma
+_Percent Aged Over 18 or Under 64
+_Per Capita Income 
+_Hardship Index (not clearly defined in the remaining documentation and excluded from the analysis) 
 
 *Note: It is a limitation that the dataset only reflects 2008-2012. This project can be used for historical insight, but it is limited in its application compared to more recent data about socioeconomic status and poverty levels.* 
 
